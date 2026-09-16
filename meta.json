@@ -1,0 +1,23 @@
+{
+  "repo": "modo-full",
+  "product": "Modo Full",
+  "kind": "3d",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "3d-dcc",
+  "topics": [
+    "foundry-modo",
+    "lookdev-desktop",
+    "meshops-modeling",
+    "modo-windows",
+    "uv-sculpt-2026",
+    "how-to-install-modo",
+    "modo-desktop-package",
+    "aov-render-suite",
+    "modo-complete-edition",
+    "dcc-lookdev-studio"
+  ],
+  "site": "toolix.me"
+}
